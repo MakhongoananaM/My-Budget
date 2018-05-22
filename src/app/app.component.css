@@ -1,0 +1,17 @@
+h2{
+    text-decoration: underline;
+}
+div{
+    background-image: url("../assets/images.png"); 
+    background-size: cover;
+    height: 700px;
+}
+
+table,th,td{
+    border: 1px solid blue;
+    Border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
